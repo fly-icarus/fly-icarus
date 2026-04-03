@@ -10,7 +10,7 @@
 
 </p>
 
-[@next-to-normal](https://github.com/next-to-normal) [@HADESTOVVN](https://github.com/HADESTOVVN) [mr-hermes](https://github.com/mr-hermes)
+[@next-to-normal](https://github.com/next-to-normal) [@hadestovvn](https://github.com/HADESTOVVN) [mr-hermes](https://github.com/mr-hermes)
 
 <p align="center">
 	
