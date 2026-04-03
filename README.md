@@ -4,7 +4,13 @@
 
 </p>
 
-[@next-to-normal](https://github.com/next-to-normal) [@HADESTOVVN](https://github.com/HADESTOVVN) [@wylan-hendriks](https://github.com/wylan-hendriks)
+<p align="center">
+
+![](https://oyster.ignimgs.com/mediawiki/apis.ign.com/hades-2/2/21/Icarus2.jpg)
+
+</p>
+
+[@next-to-normal](https://github.com/next-to-normal) [@HADESTOVVN](https://github.com/HADESTOVVN) [mr-hermes](https://github.com/mr-hermes)
 
 <p align="center">
 	
